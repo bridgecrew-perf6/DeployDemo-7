@@ -8,33 +8,6 @@
     <type>Picklist</type>
     <valueSet>
         <restricted>true</restricted>
-        <valueSetDefinition>
-            <sorted>false</sorted>
-            <value>
-                <fullName>Top</fullName>
-                <default>false</default>
-                <label>Top</label>
-            </value>
-            <value>
-                <fullName>A</fullName>
-                <default>false</default>
-                <label>A</label>
-            </value>
-            <value>
-                <fullName>B</fullName>
-                <default>false</default>
-                <label>B</label>
-            </value>
-            <value>
-                <fullName>C</fullName>
-                <default>false</default>
-                <label>C</label>
-            </value>
-            <value>
-                <fullName>D</fullName>
-                <default>false</default>
-                <label>D</label>
-            </value>
-        </valueSetDefinition>
+        <valueSetName>Service_Level</valueSetName>
     </valueSet>
 </CustomField>
