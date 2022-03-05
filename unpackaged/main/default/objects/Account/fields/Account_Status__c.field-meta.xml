@@ -21,9 +21,9 @@
                 <label>Lead</label>
             </value>
             <value>
-                <fullName>Ex-Clien</fullName>
+                <fullName>Ex-Client</fullName>
                 <default>false</default>
-                <label>Ex-Clien</label>
+                <label>Ex-Client</label>
             </value>
         </valueSetDefinition>
     </valueSet>
